@@ -1,0 +1,22 @@
+DetectMarkerHUDDescription: 'Add detect markers as part of the HUD'
+
+
+DisplaySettings: 'Display settings'
+DisplaySettingsDesc: 'Change how the markers are displayed.'
+
+Margin: 'Margin'
+MarginDesc: 'Space at the edge of the screen where markers will not be drawn.'
+MarkerIconSize: 'Marker icon size'
+UseGenericIcon: 'Use generic icon for all markers'
+KeyMarkerColor: 'Key marker color'
+EnchantmentMarkerColor: 'Enchantment marker color'
+AnimalMarkerColor: 'Animal marker color'
+NPCHeightOffset: 'NPC height offset'
+NPCHeightOffsetDesc: 'Display NPC markers higher than their feet.'
+
+
+PerformanceSettings: 'Performance settings'
+PerformanceSettingsDesc: 'Change how this script will impact game performance.'
+
+MaxObjectTest: 'Maximum object test'
+MaxObjectTestDesc: 'Maximum number of objects tested each frame.'

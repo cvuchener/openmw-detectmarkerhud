@@ -1,0 +1,22 @@
+DetectMarkerHUDDescription: 'Ajoute des marqueurs de détection sur le HUD'
+
+
+DisplaySettings: 'Paramètres d''affichage'
+DisplaySettingsDesc: 'Change l''affichage des marqueurs.'
+
+Margin: 'Marge'
+MarginDesc: 'Espace laissé vide au bord de l''écran.'
+MarkerIconSize: 'Taille des icônes des marqueurs'
+UseGenericIcon: 'Utiliser une icône générique pour tous les marqueurs'
+KeyMarkerColor: 'Couleur du marqueur de clés'
+EnchantmentMarkerColor: 'Couleur du marqueur d''enchantements'
+AnimalMarkerColor: 'Couleur du marqueur d''animaux'
+NPCHeightOffset: 'Décalage du marqueur de PNJ'
+NPCHeightOffsetDesc: 'Affiche le marqueur des PNJ plus haut que leurs pieds.'
+
+
+PerformanceSettings: 'Paramètres de performance'
+PerformanceSettingsDesc: 'Change l''impact de ce script sur les performances du jeu.'
+
+MaxObjectTest: 'Maximum de tests d''objet'
+MaxObjectTestDesc: 'Nombre maximum d''objets testés à chaque image.'
